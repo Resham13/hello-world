@@ -1,2 +1,2 @@
 # hello-world
-i aint new to coding
+Resham here, want to be a coder for life
